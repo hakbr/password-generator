@@ -1,6 +1,4 @@
-# password-generator
-
-Alphanumeric Password Generator
+# Alphanumeric Password Generator
 
 Overview
 The ".password.sh" script is a Bash script that generates a random password with a mix of uppercase and lowercase letters, along with numbers. It provides a simple and customizable way to generate secure passwords for various applications.
